@@ -15,13 +15,14 @@ A collection of tools for creating custom Glyph tones and compositions.
 
 | Project | Developer | Description |
 |---------|-----------|-------------|
-| [Better Nothing Glyph Composer](https://better-nothing-glyph-composer.pages.dev/) | Krishnagopal Sinha | Visual tool for creating custom Glyph tones. Supports Phone (3) Matrix |
+| [Better Nothing Glyph Composer (BNGC)](https://better-nothing-glyph-composer.pages.dev/) | Krishnagopal Sinha | Visual tool for creating custom Glyph tones. Supports Phone (3) Matrix ([Repo](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer)) |
 | [Cassette](https://github.com/Chipik0/Cassette) | Chipik0 | Create glyph compositions |
 | [Custom Nothing Glyph Tools](https://github.com/SebiAi/custom-nothing-glyph-tools) | SebiAi | Create custom tones with Audacity |
 | [Glyph Converter](https://github.com/jarpl-o-pvl/glyph-converter) | jarpl-o-pvl | Convert Audacity labels into custom Glyph ringtones for Nothing Phone |
 | [Glyph Ctrl](https://github.com/Nonta72/glyph_ctrl) | Nonta72 | Simple helper used by the Glyphs Lights Click app for Ubuntu Touch on the Nothing Phone (1) |
 | [Glyph Matrix Editor](https://github.com/pauwma/GlyphMatrixEditor) | pauwma | Pixel art editor for Phone (3) |
 | [Glyph Matrix Image Maker](https://quintenvandamme.github.io/glyph-matrix-image-maker/) | quintenvandamme | Convert images into Glyph Matrix patterns ([Repo](https://github.com/quintenvandamme/glyph-matrix-image-maker)) |
+| [Glyph Tone Merger](https://github.com/danissomo/GlyphToneMerger) | danissomo | CLI tool for merging animations from GlyphMuseum with any audio |
 | [Glyph Tones](https://glyphtones.firu.dev/) | Firu11 | Collection of community Glyph tones. ([Repo](https://github.com/firu11/nothing-glyphtones)) |
 | [Glyph Utils](https://github.com/pgsk33/Glyph-Utils) | pgsk33 | Java helper for frame-based Glyph Interface animations |
 | [Glyph Visualizer](https://github.com/SebiAi/GlyphVisualizer) | SebiAi | Desktop visualizer for .ogg compositions |
@@ -63,6 +64,7 @@ Themes and rices for Arch Linux, VS Code, and other development environments fol
 | [Nothing Bar](https://github.com/bestK1ngArthur/nothing-bar) | bestK1ngArthur | macOS menu bar app |
 | [Nothing Cursor Pack](https://discord.com/channels/930878214237200394/1513976039335002192) | farinhajorge | A cursor pack inspired by Nothing's design language |
 | [Nothing Floris](https://github.com/itsmeralph09/nothing-floris) | itsmeralph09 | Minimalist Nothing OS inspired theme for FlorisBoard Android keyboard |
+| [Nothing KDE Rice](https://github.com/buddi0812/nothing-kde-rice) | buddi0812 | Nothing OS inspired KDE Plasma 6 desktop for Linux. |
 | [Nothing Mono KDE](https://github.com/veedy-dev/nothing-mono-kde) | veedy-dev | Nothing inspired KDE Plasma 6 setup |
 | [Nothing OS Manjaro](https://github.com/HyenaDesign/nothingos-gnome-manjaro) | HyenaDesign | GNOME desktop build |
 | [Nothing Rice](https://github.com/Adhil-ka/nothing-rice) | Adhil-ka | Nothing OS inspired Arch Hyprland desktop rice |
@@ -119,7 +121,7 @@ Web-based applications inspired by Nothing OS.
 | [Ear (Web)](https://earweb.bttl.xyz/) | RapidZapper | Control earbuds from web ([Repo](https://github.com/radiance-project/ear-web)) |
 | [Essential Space Web](https://prostmitwein.github.io/EssentialSpaceWeb/) | CorruptPriest | Minimalist notespace ([Repo](https://github.com/CorruptPriest/EssentialSpaceWeb)) |
 | [Flow](https://flowpo.pages.dev/) | Earendel | Pomodoro timer web app |
-| [Glyph Portal](https://glyph.suns.red/) ([Repo](https://github.com/aero-md/GlyphPortal)) | aero-md | Web portal with real-scale browser previews of Nothing Phone Glyph Matrix toys |
+| [Glyph Portal](https://glyph.suns.red/) | aero-md | Web portal with real-scale browser previews of Nothing Phone Glyph Matrix toys  ([Repo](https://github.com/aero-md/GlyphPortal)) |
 | [Home Page](https://github.com/CorruptPriest/HomePage) | CorruptPriest | Terminal-inspired homepage |
 | [Invo](https://dibyajyotikabi.github.io/Nothing-OS-Inspired-Invoice-App) | Dibyajyotikabi | Nothing OS Inspired Invoice Web App ([Repo](https://github.com/Dibyajyotikabi/Nothing-OS-Inspired-Invoice-App)) |
 | [Its Nothing](https://github.com/eduardochiaro/its-nothing) | eduardochiaro | Minimal web experience inspired by Nothing OS |
@@ -135,7 +137,7 @@ Web-based applications inspired by Nothing OS.
 | [Nothing Weather Clone](https://github.com/Avadhkumar-geek/nothing_weather_clone) | Avadhkumar-geek | Flutter-based weather application replicating the Nothing OS weather design |
 | [Spin The Bottle](https://dotmatrix-beerbottle.vercel.app/) | MadGlacierRunner | Spin the bottle simulator |
 | [Study Logix](https://github.com/ashutoshpatraa/StudyLogix) | ashutoshpatraa | Nothing OS-inspired study tracking web application featuring focus tools and analytics |
-| [Vibe Nothing Design](https://wangbh030722.github.io/vibe-nothing-ui-design/) | Claude & wangbh030722 | A Nothing OS inspired UI component library for the web ([Repo](https://github.com/wangbh030722/vibe-nothing-ui-design)) |
+| [Vibe Nothing Design](https://wangbh030722.github.io/vibe-nothing-ui-design/) | wangbh030722 | A Nothing OS inspired UI component library for the web ([Repo](https://github.com/wangbh030722/vibe-nothing-ui-design)) |
 
 ## Extensions
 
@@ -148,7 +150,6 @@ Browser extensions and other add-ons inspired by Nothing OS.
 | [Nothing Ear Controller](https://github.com/LuanAdemi/nothing-ear-controller) | LuanAdemi | GNOME extension for ANC control on Nothing Ear |
 | [Nothing Home](https://github.com/nemy-new/NothingHome) | nemy-new | Browser New Tab extension |
 | [Nothing News Extension](https://chromewebstore.google.com/detail/nothing-news/ijacccpmmnbckkiobhonleppbcljpjpo) | lsh3 | Chrome extension |
-| [Void Glyph New Tab](https://github.com/NamiCode-Dev/void-glyph-newtab) | NamiCode-Dev | Industrial browser New Tab page extension inspired by the Nothing OS design system |
 
 ## Sound & Audio
 
@@ -164,6 +165,7 @@ Essential resources including wikis, firmware archives, audio control utilities,
 
 | Project | Developer | Description |
 |---------|-----------|-------------|
+| [CMF Ringtone Tool](https://github.com/tirodz/CMF-Ringtone-Tool) | tirodz | CMF Watch Pro 2 ringtone customization tool |
 | [CMF Tray](https://github.com/abhineet00/cmf-tray) | abhineet00 | Windows taskbar tray app to control CMF and Nothing earbuds settings and battery |
 | [Ear Battery CLI](https://github.com/pedrordgs/nothing-ear) | pedrordgs | Command-line tool to check battery levels of Nothing Ear wireless earbuds via Bluetooth |
 | [Ear Native](https://github.com/dest4590/ear-native) | dest4590 | Native Rust desktop client for Nothing and CMF audio devices |
@@ -172,6 +174,7 @@ Essential resources including wikis, firmware archives, audio control utilities,
 | [EarPhone X](https://github.com/noebachofner/EarPhonesX) | noebachofner | Linux application to control and configure Nothing and CMF earbuds |
 | [FMC](https://fmc.freethinkel.dev) | freethinkel | Terminal companion tool, watchface compiler/editor, and BLE sideloading manager for CMF Watch Pro 2 ([Repo](https://github.com/freethinkel/fmc)) |
 | [Kairo](https://github.com/nikitawebdeg-debug/-kairo) | nikitawebdeg-debug | ESP32-powered desktop system monitor with a Nothing OS-inspired dot-matrix display |
+| [Nadamas](https://github.com/ezvk/nadamas) | ezvk | Linux desktop utility and system tray app to control Nothing and CMF earbuds with LDAC codec and ANC controls |
 | [Nothing Desktop](https://github.com/sowahq/nothing-desktop) | sowahq | Menu-bar app to control battery, ANC, and EQ settings for Nothing earbuds |
 | [Nothing Ear Linux](https://github.com/sn99/nothing-linux) | sn99 | Tauri-based Linux application to control and configure Nothing Ear earbuds (inspired by [Ear (Web)](https://earweb.bttl.xyz/)) |
 | [Nothing Linux](https://github.com/Dospacite/NothingLinux) | Dospacite | Unofficial local Rust/GTK4 controller for Nothing Ear on Linux |
@@ -197,7 +200,7 @@ Essential resources including wikis, firmware archives, audio control utilities,
 | [Nothing Community App Store](https://nothingstore.base44.app/) | Ali Fakhruddin | PWA-style web app that indexes community apps, using a foundational database sourced from [Nothing Archive](https://github.com/spike0en/nothing_archive) |
 | [Nothing Flasher](https://github.com/spike0en/nothing-flasher) | spike0en & Hellboy017 | Fastboot flashing scripts |
 | [Nothing Glyph Interface Research](https://github.com/ThatOneCheat/nothing-glyph-interface-research) | ThatOneCheat | Reverse-engineering notes on the Nothing Phone Glyph SDK and system service, verified against decompiled code |
-| [Nothing News Hub](https://nothing-news.de/hub/) | StickyPRP | News and resources hub |
+| [Nothing News Hub](https://nothing-news.com) | StickyPRP | News and resources hub |
 | [Nothing OS Logkit Softfix](https://github.com/kunaibox/NothingOS-Logkit-Softfix) | kunaibox | Tool to patch/disable Logkit via ADB |
 | [Nothing Shelf](https://nothing-shelf.vercel.app/) | therealcocoboy | A curated gallery of the Nothing community's favourite widgets |
 | [Nothing Space](https://nothingtools.github.io/) | ROHit | Community hub ([Repo](https://github.com/nothingtools/nothingtools.github.io)) |

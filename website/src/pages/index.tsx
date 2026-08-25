@@ -9,6 +9,7 @@ import {
   FaInstagram, FaGithub, FaTerminal,
   FaMobileAlt, FaDownload, FaClipboardList, FaBook,
   FaBoxOpen, FaRocket, FaCode, FaCameraRetro,
+  FaRegCompass, FaArrowRight,
 } from 'react-icons/fa';
 import { FaXTwitter, FaThreads, FaTiktok, FaGlobe } from 'react-icons/fa6';
 import { TbMessageCircle } from 'react-icons/tb';
@@ -128,7 +129,7 @@ const communityMaintainedLinks = [
 /** Official social media channels. */
 const socialMediaLinks = [
   { label: 'CMF', href: 'https://x.com/cmfbynothing', icon: <FaXTwitter size={22} /> },
-  { label: 'Community', href: 'https://www.instagram.com/community.nothing', icon: <FaInstagram size={22} /> },
+  { label: 'Community', href: 'https://www.instagram.com/nothing.community', icon: <FaInstagram size={22} /> },
   { label: 'Essential', href: 'https://x.com/essential', icon: <FaXTwitter size={22} /> },
   { label: 'Instagram', href: 'https://instagram.com/nothing', icon: <FaInstagram size={22} /> },
   { label: 'Nothing', href: 'https://x.com/nothing', icon: <FaXTwitter size={22} /> },
@@ -158,8 +159,12 @@ function HomepageHeader() {
               {siteConfig.tagline}
             </p>
             <div className={styles.buttons}>
-              <Link className={clsx('button', styles.ctaButton)} to="/docs/intro">
-                Explore Resources
+              <Link className={clsx('button', styles.ctaButton)} to="/showcase">
+                <span className={styles.ctaIconWrapper}>
+                  <FaRegCompass className={styles.ctaCompassIcon} size={16} />
+                </span>
+                <span>Explore Showcase</span>
+                <FaArrowRight className={styles.ctaArrowIcon} size={12} />
               </Link>
               <a
                 className={clsx('button', styles.ctaButtonSecondary)}

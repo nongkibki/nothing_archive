@@ -42,6 +42,7 @@ Check out [Nothing Playground Glyph Toys](https://playground.nothing.tech/toys) 
 | [Glyph Snake](https://github.com/AlyaNs1/GlyphSnake) | AlyaNs1 | Snake Game for Nothing Phone (3)'s Glyph Matrix |
 | [Glyph Stack](https://github.com/pauwma/GlyphStack) | pauwma | A stacker arcade game |
 | [Glyph Toybox](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) | Singularity Design | Coin flip, ringer mode, battery flow |
+| [Glyph Works](https://play.google.com/store/apps/details?id=space.linuxct.glyphworks) | linuxct | Adds support for Nothing Phone (3)-like Glyph Toy actions, custom designs, and matrix widgets via the Essential Key ([Repo](https://github.com/linuxct/glyphworks)) |
 | [Glyphify](https://play.google.com/store/apps/details?id=com.frank.glyphify) | Fr4nKB | Ball maze, quick dial, Tamagotchi |
 | [Glyphs](https://github.com/Rorenheim/glyphs) | Rorenheim | Heart Glyph Toy for Nothing Phone (3) that explodes into sprinkles and says "luv u" |
 | [Justadice](https://github.com/aero-md/justadice) | aero-md | 3D physics-based dice rolling toy with d6, d10, d12, and d20 solids for the Nothing Phone (3) Glyph Matrix |
@@ -97,7 +98,6 @@ Check out [Nothing Playground Glyph Toys](https://playground.nothing.tech/toys) 
 | [Glyph Beat](https://play.google.com/store/apps/details?id=com.pauwma.glyphbeat) | pauwma | Media visualizer with themes |
 | [Glyph Claude Limit](https://github.com/literato1987/glyph-claude-limits) | literato1987 | Claude.ai 5h usage limit on Nothing Phone (3) Glyph Matrix |
 | [Glyph Decibel Meter](https://github.com/iama2z/Glyph-Decibel-Meter) | iama2z | Displays decibel levels with a filling effect on the Nothing Phone (4a) Pro's Glyph Matrix |
-| [Glyph Draw](https://github.com/kaelvalen/open-glyph) | kaelvalen | Glyph Toy for Nothing Phone (3) that lets you draw custom pixel art |
 | [Glyph Draw](https://play.google.com/store/apps/details?id=com.shashank.fyi.glyph_draw) | Shashank | Matrix drawing tool and pixel editor for the Nothing Phone (4a) Pro's Glyph Matrix |
 | [Glyph GeekBox](https://github.com/danissomo/GlyphMatrix-AODGeekBox) | danissomo | Some geek stuff on GlyphMatrix. Nothing Phone 4(a) pro targeted |
 | [Glyph HA Integration](https://github.com/Pytonballoon810/Glyph-HA-Integration) | Pytonballoon810 | Android app that displays Home Assistant sensor data on the Nothing Glyph Matrix |
@@ -112,6 +112,7 @@ Check out [Nothing Playground Glyph Toys](https://playground.nothing.tech/toys) 
 | [Glyph Nothing](https://github.com/manttii/Glphy-Nothing) | manttii | Create, preview, and trigger custom Glyph Matrix animations on Nothing phones |
 | [Glyph Pomodoro](https://github.com/itsmixu/glyph-pomo) | itsmixu | Pomodoro timer for the Nothing Phone (4a) Pro's Glyph Matrix |
 | [Glyph Stopwatch](https://github.com/Sturdy7435/GlyphStopwatch) | Sturdy7435 | A simple stopwatch for the Nothing Phone (4a) Pro's Glyph Matrix |
+| [Glyph Studio](https://play.google.com/store/apps/details?id=tech.abra.glyphstudio) | AbraDev | Generate custom ringtones and real-time audio visualizations for both Glyph LEDs and the Glyph Matrix |
 | [Glyph Temperature](https://github.com/Gabelloide/GlyphTemperatureToy) | Gabelloide | Displays CPU, battery, and GPU temperatures with a scrolling history plot on the Nothing Phone (3) Glyph Matrix |
 | [Glyph Torch Toy](https://github.com/dotstaraj/GlyphTorchToy) | dotstaraj | Minimal Glyph Toy for Nothing Phone (3) that flashes the entire matrix as a torch |
 | [Glyph Type](https://github.com/deepudxd/GlyphType) | deepudxd | Converts text into scrolling dot-matrix animations for the Nothing Phone (4a) Pro's 13×13 Glyph Matrix |
@@ -140,7 +141,7 @@ Apps that integrate with the Glyph interface on Nothing phones.
 | [Glyph Glow](https://github.com/fgiering/GlyphGlow) | fgiering | Minimal app to control Glyph interface |
 | [Glyph Lights](https://github.com/Nonta72/glyph-lights.nonta) | Nonta72 | Simple UT app to turn ON/OFF glyphs lights on Nothing Phone (1) |
 | [Glyph Studio](https://github.com/SyedAhkam/glyph-studio) | SyedAhkam | Playground for everything Glyphs |
-| [Glyph Studio](https://play.google.com/store/apps/details?id=tech.abra.glyphstudio) | AbraDev | Generate Glyph ringtones and real-time LED visualizations from audio |
+| [Glyph Studio](https://play.google.com/store/apps/details?id=tech.abra.glyphstudio) | AbraDev | Generate custom ringtones and real-time audio visualizations for both Glyph LEDs and the Glyph Matrix |
 | [Glyph Torch](https://github.com/Earendel-lab/GlyphTorch) | Earendel | Android App for letting the nothing phone glyphs glow on trigger |
 
 ### Notifications & Indicators
@@ -254,7 +255,6 @@ Dynamic wallpapers and visual enhancements to customize your device's interface.
 
 | App | Developer | Description |
 |-----|-----------|-------------|
-| [Don't Look](https://play.google.com/store/apps/details?id=com.lended.dontlook) | Creepsmile | Focus enhancement app |
 | [Dothing](https://play.google.com/store/apps/details?id=com.firstyogi.dothing) | FirstYogi | Minimalist tasks app with cloud backup |
 | [No Things To Do List](https://play.google.com/store/apps/details?id=com.todo.nothingwidgets) | Martin Diermayr | Task/to-do app with widgets |
 | [Nothing To Do](https://github.com/amriths04/NothingToDo) | amriths04 | Nothing to do android app |
@@ -327,7 +327,6 @@ Dynamic wallpapers and visual enhancements to customize your device's interface.
 |-----|-----------|-------------|
 | [MINIMAA Launcher](https://play.google.com/store/apps/details?id=com.minimaa.minimal.detox.launcher) | Pickerry Apps | Minimalist launcher built to reduce digital distractions with a text-based interface, dark themes, and focus utilities |
 | [Simple Launcher](https://play.google.com/store/apps/details?id=com.dino.simple) | DinoyRajk | Minimalist launcher |
-| [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher) | tariqamarneh | Minimal dot-grid launcher inspired by the Nothing OS aesthetic |
 
 ### Keyboards & Input
 
@@ -389,6 +388,7 @@ Dynamic wallpapers and visual enhancements to customize your device's interface.
 | [Nothing Cinema](https://github.com/Zwe-Paing-Htet/nothing_cinema) | Zwe-Paing-Htet | Movie catalog and streaming companion app designed with Nothing OS aesthetics |
 | [Nothing Community App](https://github.com/Shaurya2295/Nothing-Community-App/) | Shaurya2295 | Mobile app for nothing.community |
 | [Nothing Compass](https://github.com/ISO53/Nothing-Compass) | ISO53 | Compass and Inclinometer in Nothing aesthetics |
+| [Nothing Dialer 1](https://play.google.com/store/apps/details?id=com.rkkvishva.nothing_dialer) | Knurdz | Nothing OS inspired dialer with synced Glyph effects ([Repo](https://github.com/rkvishwa/Nothing-Dialer-1)) |
 | [Nothing Gallery](https://github.com/jerichoi224/Nothing-Gallery) | jerichoi224 | Gallery app |
 | [Nothing K](https://github.com/cuadratico/NothingK) | cuadratico | Password vault |
 | [Nothing Land](https://github.com/TheGlitchh/NothingLand) | TheGlitchh | Dynamic Island for Nothing OS |
